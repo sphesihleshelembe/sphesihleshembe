@@ -11,13 +11,9 @@ Currently focused on strengthening my software development skills, building proj
 ## 🛠️ Technologies & Tools
 
 **Languages**
-- TypeScript
-- JavaScript
 - C#
 - SQL
-- Kotlin
 - python
-- c++
 - java
 
 **Frameworks & Technologies**
